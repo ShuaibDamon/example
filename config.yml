@@ -286,7 +286,7 @@ params:
   #
   # Recommended: png, bmp, jpg, or gif
   # for best browser support!
-  logo: img/logo.png
+  logo: grafana_logo.png
 
   # This is the description that is shown
   # on the footer and meta tags.
