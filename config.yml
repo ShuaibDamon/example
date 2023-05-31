@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: Status Page example
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -292,7 +292,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: This is a trial of a status page
 
   # Tabs on homepage
   # Uncomment to enable.
