@@ -292,7 +292,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: This is a trial of a status page
+  description: This is an example of a status page
 
   # Tabs on homepage
   # Uncomment to enable.
@@ -333,7 +333,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
+  brand: "#009677"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
