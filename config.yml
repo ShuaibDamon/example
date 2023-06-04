@@ -334,7 +334,7 @@ params:
   # down: "#e60000"
   # notice: "#24478f"
   brand: "#009677"
-  ok: "#008000"
+  ok: "#ffffff"
   disrupted: "#cc4400"
   down: "#e60000"
   notice: "#24478f"
