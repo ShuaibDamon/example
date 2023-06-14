@@ -39,14 +39,14 @@ params:
   systems:
     - name: My Old Mutual Mobile App
       description: The frontend for the application.
-      category: Uncategorized
+      category: System Components
       link: https://example.com/
     - name: Old Mutual Whatsapp Banking
       description: The bot of the whatsapp application.
-      category: Uncategorized
+      category: System Components
     - name: Oldmutual.co.za
       description: Old mutual South African website
-      category: Uncategorized
+      category: System Components
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#009677"
   enableLastMod: false
@@ -62,7 +62,9 @@ params:
   incidentHistoryFormat: monthly
   disableIncidentHistory: false
   ok: "#ffffff"
-  categories: []
+  categories:
+    - name: System Components
+      closed: true
   description: This is an example of a status page
   enableCustomHTML: true
   useLargeHeaderDesign: false
