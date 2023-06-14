@@ -65,6 +65,7 @@ params:
   categories:
     - name: System Components
       closed: true
+      untitled: true
   description: This is an example of a status page
   enableCustomHTML: true
   useLargeHeaderDesign: false
